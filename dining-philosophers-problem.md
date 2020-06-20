@@ -4,6 +4,8 @@
 
 在1971年，著名的计算机科学家[艾兹格·迪科斯彻](https://zh.wikipedia.org/wiki/%E8%89%BE%E5%85%B9%E6%A0%BC%C2%B7%E8%BF%AA%E7%A7%91%E6%96%AF%E5%BD%BB)提出了一个同步问题，即假设有五台计算机都试图访问五份共享的磁带驱动器。稍后，这个问题被[托尼·霍尔](https://zh.wikipedia.org/wiki/%E6%89%98%E5%B0%BC%C2%B7%E9%9C%8D%E7%88%BE)重新表述为哲学家就餐问题。这个问题可以用来解释[死锁](https://zh.wikipedia.org/wiki/%E6%AD%BB%E7%B5%90)和资源耗尽。
 
+![&#x54F2;&#x5B66;&#x5BB6;&#x5C31;&#x9910;&#x95EE;&#x9898;&#x56FE;&#x89E3;](.gitbook/assets/image%20%281%29.png)
+
 拓展阅读 - 死锁的四个条件:
 
 * **禁止抢占**（no preemption）：系统资源不能被强制从一个进程中退出。
